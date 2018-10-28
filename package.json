@@ -1,5 +1,5 @@
 {
-  "name": "eri-config",
+  "name": "@bioenrichment/config",
   "version": "0.1.0",
   "description": "Provides getConfig function for enrichment services",
   "main": "index.js",
